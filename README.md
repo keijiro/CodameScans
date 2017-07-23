@@ -2,9 +2,9 @@ CODAME Scans
 ============
 
 This repository contains 3D scans by [CODAME] that are decimated and converted
-for real-time use. Also it contains a Unity project used for testing the model.
+for real-time use. Also it contains a Unity project used for testing.
 
-At the moment, it only contains the following scan:
+At the moment, it only contains the following scan.
 
 - [dollemonx by CODAME], decimated to 12,336 triangles.
 
