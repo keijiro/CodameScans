@@ -12,8 +12,10 @@ License
 -------
 
 All the assets are scanned by [MobBod] and licensed by [CODAME] under a
-[Creative Commons Attribution] license. You can use them freely but should
-attributed properly.
+[Creative Commons Attribution] license. You can use the assets freely but
+should attribute them to the original authors properly.
+
+These scans are decimated and converted by Keijiro Takahashi.
 
 [CODAME]: http://codame.com/
 [Creative Commons Attribution]: https://creativecommons.org/licenses/by/4.0/
