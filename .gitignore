@@ -1,0 +1,14 @@
+*.swp
+
+.DS_Store
+Desktop.ini
+
+/Library/
+/Temp/
+
+/Houdini/*/backup
+/Houdini/*/out
+/Houdini/*/source/*.obj
+/Houdini/*/source/*.stl
+/Houdini/*/source/*.png
+/Houdini/*/source/*.jpg
