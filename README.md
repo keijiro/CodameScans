@@ -8,6 +8,8 @@ At the moment, it only contains the following scan.
 
 - [dollemonx by CODAME], decimated to 12,336 triangles.
 
+![screenshot](http://i.imgur.com/NLaJXIJl.png)
+
 License
 -------
 
