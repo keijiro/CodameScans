@@ -1,0 +1,14 @@
+The 3D models stored in this directory are scanned by ModBod and licensed by
+CODAME under a Creative Commons Attribution license.
+
+CODAME on Sketchfab
+  https://sketchfab.com/codame
+
+dollemonx by CODAME
+  https://sketchfab.com/models/0c7ce1376ade4b23a986916befa83e31
+
+The models are decimated and converted for real-time use by Keijiro Takahashi.
+See the repository below for further details.
+
+CODAME Scans on GitHub
+  https://github.com/keijiro/CodameScans
